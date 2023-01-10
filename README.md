@@ -1,5 +1,5 @@
-nama:Nazam ahmad fahreyza
+nama:nazam ahmad fahreyza
 <br>
-kelas:X PPLG 1
+kelas: X PPLG 1
 <br>
-i love coding
+I LOVE CODING
