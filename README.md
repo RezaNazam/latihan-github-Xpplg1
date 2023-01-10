@@ -1,5 +1,5 @@
 nama:Nazam ahmad fahreyza
-<b>
+<br>
 kelas:X PPLG 1
-<b>
+<br>
 i love coding
